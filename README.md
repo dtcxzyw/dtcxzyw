@@ -1,2 +1,3 @@
-### My Github Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dtcxzyw&show_icons=true&count_private=true&theme=dark" alt="Yingwei Zheng" />
+![Stats](https://github-readme-stats.vercel.app/api?username=dtcxzyw&show_icons=true&count_private=true&theme=dark&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dtcxzyw&layout=compact&hide=shell,tex,makefile,roff,html,m4,objective-c,objective-c%2B%2B)
