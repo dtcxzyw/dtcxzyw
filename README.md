@@ -2,5 +2,6 @@
 
 ![Top Langs](https://github-readme-stats-dtcxzyw.vercel.app/api/top-langs/?username=dtcxzyw&layout=compact&hide=shell,tex,makefile,roff,html,m4,objective-c,objective-c%2B%2B&theme=dark)
 
-[My resume](resume_yingweizheng.pdf)
+[My resume](resume_yingweizheng.pdf) (Last updated: Sept. 15, 2023)
+
 
