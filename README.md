@@ -6,7 +6,7 @@
 
 [llvm-opt-benchmark: An LLVM IR dataset for data-driven compiler optimization research](https://github.com/dtcxzyw/llvm-opt-benchmark)
 
-[llvm-codegen-benchmark: frequency pattern collections for LLVM backends](https://github.com/dtcxzyw/llvm-codegen-benchmark)
+[llvm-codegen-benchmark: A frequent pattern collection for LLVM codegen](https://github.com/dtcxzyw/llvm-codegen-benchmark)
 
 [llvm-fuzz-service: Csmith-based pre-commit fuzzing service](https://github.com/dtcxzyw/llvm-fuzz-service)
 
