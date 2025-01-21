@@ -4,6 +4,8 @@
 
 # My LLVM-related projects
 
+[New! LLVM APR Benchmark: A Large-Scale Automated Program Repair Benchmark of Real-World LLVM Middle-End Bugs](https://github.com/dtcxzyw/llvm-apr-benchmark)
+
 [llvm-opt-benchmark: An LLVM IR dataset for data-driven compiler optimization research](https://github.com/dtcxzyw/llvm-opt-benchmark)
 
 [llvm-codegen-benchmark: A frequent pattern collection for LLVM codegen](https://github.com/dtcxzyw/llvm-codegen-benchmark)
