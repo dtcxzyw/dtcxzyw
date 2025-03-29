@@ -4,6 +4,8 @@
 
 # My LLVM-related projects
 
+[Clang i18n support](https://github.com/dtcxzyw/clang-i18n) ![stars](https://img.shields.io/github/stars/dtcxzyw/clang-i18n?style=flat)
+
 [New! LLVM APR Benchmark: A Large-Scale Automated Program Repair Benchmark of Real-World LLVM Middle-End Bugs](https://github.com/dtcxzyw/llvm-apr-benchmark) ![stars](https://img.shields.io/github/stars/dtcxzyw/llvm-apr-benchmark?style=flat)
 
 [llvm-opt-benchmark: An LLVM IR dataset for data-driven compiler optimization research](https://github.com/dtcxzyw/llvm-opt-benchmark) ![stars](https://img.shields.io/github/stars/dtcxzyw/llvm-opt-benchmark?style=flat)
