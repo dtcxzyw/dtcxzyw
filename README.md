@@ -22,8 +22,8 @@
 
 [rvtv: Risc-V codegen Translation Validator](https://github.com/dtcxzyw/rvtv) ![stars](https://img.shields.io/github/stars/dtcxzyw/rvtv?style=flat)
 
-[llvm-fuzz-service: Csmith-based pre-commit fuzzing service](https://github.com/dtcxzyw/llvm-fuzz-service)
+[llvm-fuzz-service: Csmith-based pre-commit fuzzing service](https://github.com/dtcxzyw/llvm-fuzz-service) ![stars](https://img.shields.io/github/stars/dtcxzyw/llvm-fuzz-service?style=flat)
 
-[llvm-mutation-based-fuzz-service: Alive2-based pre-commit fuzzing service](https://github.com/dtcxzyw/llvm-mutation-based-fuzz-service)
+[llvm-mutation-based-fuzz-service: Alive2-based pre-commit fuzzing service](https://github.com/dtcxzyw/llvm-mutation-based-fuzz-service) ![stars](https://img.shields.io/github/stars/dtcxzyw/llvm-mutation-based-fuzz-service?style=flat)
 
-[llvm-tools: Miscellaneous code](https://github.com/dtcxzyw/llvm-tools)
+[llvm-tools: Miscellaneous code](https://github.com/dtcxzyw/llvm-tools) ![stars](https://img.shields.io/github/stars/dtcxzyw/llvm-tools?style=flat)
