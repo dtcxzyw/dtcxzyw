@@ -8,6 +8,8 @@ I am currently one of the maintainers of [LLVM](https://github.com/llvm/llvm-pro
 
 # My LLVM-related projects
 
+[tuffy: An experimental optimizing compiler written by LLM](https://github.com/dtcxzyw/tuffy) ![stars](https://img.shields.io/github/stars/dtcxzyw/tuffy?style=flat)
+
 [llvm-inst-db: Instruction database extracted from LLVM source](https://github.com/dtcxzyw/llvm-inst-db) ![stars](https://img.shields.io/github/stars/dtcxzyw/llvm-inst-db?style=flat)
 
 [Clang i18n support Clang国际化支持插件](https://github.com/dtcxzyw/clang-i18n) ![stars](https://img.shields.io/github/stars/dtcxzyw/clang-i18n?style=flat)
