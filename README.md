@@ -14,7 +14,9 @@ I am currently one of the maintainers of [LLVM](https://github.com/llvm/llvm-pro
 
 [Clang i18n support Clang国际化支持插件](https://github.com/dtcxzyw/clang-i18n) ![stars](https://img.shields.io/github/stars/dtcxzyw/clang-i18n?style=flat)
 
-[New! LLVM APR Benchmark: A Large-Scale Automated Program Repair Benchmark of Real-World LLVM Middle-End Bugs](https://github.com/dtcxzyw/llvm-apr-benchmark) ![stars](https://img.shields.io/github/stars/dtcxzyw/llvm-apr-benchmark?style=flat)
+[llvm-autofix: Agentic Harness for Real-World Compilers](https://github.com/dtcxzyw/llvm-autofix) ![stars](https://img.shields.io/github/stars/dtcxzyw/llvm-autofix?style=flat)
+
+[~~LLVM APR Benchmark: A Large-Scale Automated Program Repair Benchmark of Real-World LLVM Middle-End Bugs~~](https://github.com/dtcxzyw/llvm-apr-benchmark) ![stars](https://img.shields.io/github/stars/dtcxzyw/llvm-apr-benchmark?style=flat)
 
 [llvm-opt-benchmark: An LLVM IR dataset for data-driven compiler optimization research](https://github.com/dtcxzyw/llvm-opt-benchmark) ![stars](https://img.shields.io/github/stars/dtcxzyw/llvm-opt-benchmark?style=flat)
 
